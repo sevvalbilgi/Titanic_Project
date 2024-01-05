@@ -8,14 +8,14 @@ This study aims to provide an interesting perspective by using data science and 
 
 ## Dataset
 
-The project works with the [Titanic dataset](link_to_dataset). This dataset includes various features such as age, gender, class, and the number of family members for each passenger. Additionally, there is label data indicating whether a passenger survived or was lost.
+The project works with the [Titanic dataset](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv). This dataset includes various features such as age, gender, class, and the number of family members for each passenger. Additionally, there is label data indicating whether a passenger survived or was lost.
 
 ## Technologies and Algorithms Used
 
 - Python
 - Scikit-learn
 - Jupyter Notebook
-- [Other used libraries]
+- Pandas
 
 Various algorithms such as decision trees, support vector machines, or deep learning have been employed to create the machine learning model.
 
@@ -44,6 +44,4 @@ Follow the steps below to download and run the project files:
 
 If you wish to contribute to this project, please fork it and submit a pull request. Your contributions are welcome!
 
-## License
 
-This project is licensed under [License Name]. For detailed information, refer to [LICENSE.md](LICENSE.md).
